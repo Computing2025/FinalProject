@@ -12,7 +12,7 @@ namespace ConsoleUI
 
             foreach (var product in productManager.GetAllByCategoryId(2))
             {
-                Console.WriteLine("Ürün adı: " + product.ProductName);
+                Console.WriteLine(product.ProductName);
             }
         }
     }
