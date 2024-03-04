@@ -13,6 +13,7 @@ namespace Business.Constants
         public static readonly string ProductNameInvalid = "Ürün ismi geçersiz.";
         public static readonly string MaintenanceTime = "Sistem bakımda.";
         public static readonly string ProductsListed = "Ürünler listelendi.";
+        public static readonly string UnitPriceInvalid = "Ürün fiyatı geçersiz";
     }
 }
 
